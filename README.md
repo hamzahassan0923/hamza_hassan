@@ -21,7 +21,7 @@ I build modern, scalable and user-friendly web applications that solve real-worl
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:hamzahassan.dev@gmail.com">
+<a href="mailto:hamzahassan0923@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -63,95 +63,159 @@ I enjoy turning ideas into real products using modern JavaScript technologies wh
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,npm" />
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-## 🚀 StartupForge
+# 🚀 StartupForge
 
-Startup Team Builder Platform where founders and developers collaborate.
+## 🌐 Live Demo
 
-**Tech Stack**
+🔗 Live Website: https://startup-forge-beryl.vercel.app
+
+📂 Repository:
+https://github.com/hamzahassan0923/startup-forgenow
+
+
+## 📖 Overview
+
+StartupForge is a startup team-building platform that helps entrepreneurs find talented developers, designers, and collaborators to turn ideas into successful projects.
+
+
+## ✨ Features
+
+- 🔐 Secure Authentication
+- 💡 Create and manage startup opportunities
+- 🤝 Apply and join startup teams
+- 📊 Personal dashboard
+- 👤 User profile management
+- 📱 Fully responsive modern UI
+
+
+## 🛠️ Tech Stack
 
 - Next.js
-- TypeScript
+- React.js
+- JavaScript
 - Tailwind CSS
+- DaisyUI
+- Framer Motion
 - Node.js
-- Express.js
-- MongoDB
-
-🔗 Live Demo:
-https://your-live-link.com
-
----
-
-## 💡 IdeaVault
-
-Modern platform for collecting and managing innovative ideas.
-
-**Tech Stack**
-
-- Next.js
-- TypeScript
 - MongoDB
 - Better Auth
 
-🔗 Live Demo:
-https://your-live-link.com
 
----
+# 🚀 Idea Vault
 
-## 📚 Book Store
+## 🌐 Live Demo
 
-Responsive online bookstore with authentication and modern UI.
+🔗 Live Website: https://idea-vault-ten-eosin.vercel.app
 
-**Tech Stack**
+📂 Repository:
+https://github.com/hamzahassan0923/Idea-Vault
 
-- React
-- Firebase
+
+## 📖 Overview
+
+Idea Vault is a full-stack startup collaboration platform where users can share innovative ideas, discover opportunities, and connect with talented people to build startup teams.
+
+
+## ✨ Features
+
+- 🔐 Secure Authentication
+- 💡 Create and manage startup ideas
+- 🤝 Join startup teams through applications
+- 📊 User dashboard
+- 👤 Profile management
+- 🔍 Discover startup opportunities
+- 📱 Responsive modern design
+
+
+## 🛠️ Tech Stack
+
+- Next.js
+- React.js
+- JavaScript
 - Tailwind CSS
+- DaisyUI
+- Framer Motion
+- Better Auth
+- MongoDB
+- Node.js
 
-🔗 Live Demo:
-https://your-live-link.com
+# 📚 Books Store
 
+## 🌐 Live Demo
+
+🔗 Live Website: https://books-store-rho.vercel.app
+
+📂 Repository:
+https://github.com/hamzahassan0923/Books-Storenow
+
+
+## 📖 Overview
+
+Books Store is a modern online bookstore platform where users can explore books, view details, and manage their book collection through an easy-to-use interface.
+
+
+## ✨ Features
+
+- 📚 Browse and explore books
+- 🔍 Search and discover books
+- 📖 View book details
+- 🛒 Modern bookstore UI
+- 📱 Fully responsive design
+- ⚡ Fast and smooth user experience
+
+
+## 🛠️ Tech Stack
+
+- React.js
+- Next.js
+- JavaScript
+- Tailwind CSS
+- DaisyUI
+- Node.js
+- MongoDB
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hamza_hassan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza_hassan&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hamza_hassan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza_hassan&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=hamza_hassan&theme=tokyonight&hide_border=true"/>
-
+  <img width="60%" src="https://streak-stats.demolab.com?user=hamza_hassan&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hamza_hassan&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamza_hassan&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
 
 # 📫 Contact
 
 📍 **Location:** Dhaka, Bangladesh
 
-📧 **Email:** hamzahassan.dev@gmail.com
+📧 **Email:** hamzahassan0923@gmail.com
 
 💼 **LinkedIn:** https://linkedin.com/in/hamza-hassan-1b66403b6
 
-🐙 **GitHub:** https://github.com/hamza_hassan
+🐙 **GitHub:** https://github.com/hamzahassan0923
 
 ---
 
